@@ -1,6 +1,8 @@
 # project-for-socialcops
 This is a small project done for Socialcops Company as part of interview
 
+NOTE - code is in socialcops branch.
+
 DEPENDENCIES USED
 -express
 -jwt
