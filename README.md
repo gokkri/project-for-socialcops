@@ -24,8 +24,7 @@ THINGS TO DO
 
 
 
-routes contained in this app
-
+ROUTES IN THIS APP
 
 /api
 
